@@ -49,6 +49,3 @@ npm run dev
 ├── package.json
 ├── README.md
 ```
-
-## 🧠 Autor
-Desenvolvido por [Luiz Gabriel Martins]
